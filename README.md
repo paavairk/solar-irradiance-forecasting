@@ -81,7 +81,7 @@ python src/fetch_data.py
 
 # 4. Launch the dashboard (coming soon)
 # streamlit run app.py
-
+```
 Methods
 Feature engineering
 
